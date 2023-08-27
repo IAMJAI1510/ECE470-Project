@@ -7,7 +7,7 @@ Ocean pollution has become a huge problem for marine life and large part of that
 In order to install the simulator follow the instructions on the mbzirc git repo.
 https://github.com/osrf/mbzirc
 
-Officially the simulator supports ubuntu 20.04 and ROS2 galactic, however, Blerim was able to get this to run on ROS2 humble, with ubuntu 22.04
+Officially the simulator supports ubuntu 20.04 and ROS2 galactic, however, it was able to run on ROS2 humble, with ubuntu 22.04
 
 Installing this package:
 1. Simply clone this repo into your `~/workspace/src`, under the name boat_control.
